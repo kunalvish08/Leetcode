@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kunalvish08/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kunalvish08/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kunalvish08/Leetcode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/kunalvish08/Leetcode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/kunalvish08/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunalvish08/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kunalvish08/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -166,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kunalvish08/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kunalvish08/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kunalvish08/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/kunalvish08/Leetcode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/kunalvish08/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kunalvish08/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kunalvish08/Leetcode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/kunalvish08/Leetcode/tree/master/0289-game-of-life) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunalvish08/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
