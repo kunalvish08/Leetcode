@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -197,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/kunalvish08/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
