@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kunalvish08/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/kunalvish08/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kunalvish08/Leetcode/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kunalvish08/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/kunalvish08/Leetcode/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kunalvish08/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/kunalvish08/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kunalvish08/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
