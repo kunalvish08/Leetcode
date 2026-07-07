@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kunalvish08/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kunalvish08/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kunalvish08/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kunalvish08/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kunalvish08/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kunalvish08/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kunalvish08/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/kunalvish08/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kunalvish08/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kunalvish08/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -208,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kunalvish08/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/kunalvish08/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
