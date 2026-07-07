@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kunalvish08/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kunalvish08/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalvish08/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kunalvish08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunalvish08/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kunalvish08/Leetcode/tree/master/0268-missing-number) |
+| [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kunalvish08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalvish08/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kunalvish08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvish08/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kunalvish08/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kunalvish08/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalvish08/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/kunalvish08/Leetcode/tree/master/0419-battleships-in-a-board) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 <!---LeetCode Topics End-->
