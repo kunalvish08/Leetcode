@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kunalvish08/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kunalvish08/Leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/kunalvish08/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kunalvish08/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kunalvish08/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kunalvish08/Leetcode/tree/master/0047-permutations-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunalvish08/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/kunalvish08/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/kunalvish08/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kunalvish08/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kunalvish08/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kunalvish08/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kunalvish08/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kunalvish08/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kunalvish08/Leetcode/tree/master/0073-set-matrix-zeroes) |
