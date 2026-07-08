@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/kunalvish08/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -211,12 +212,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/kunalvish08/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/kunalvish08/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0419-battleships-in-a-board](https://github.com/kunalvish08/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Heap (Priority Queue)
