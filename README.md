@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalvish08/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1405-longest-happy-string](https://github.com/kunalvish08/Leetcode/tree/master/1405-longest-happy-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kunalvish08/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalvish08/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvish08/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalvish08/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1405-longest-happy-string](https://github.com/kunalvish08/Leetcode/tree/master/1405-longest-happy-string) |
 | [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kunalvish08/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kunalvish08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvish08/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunalvish08/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1094-car-pooling](https://github.com/kunalvish08/Leetcode/tree/master/1094-car-pooling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kunalvish08/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kunalvish08/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kunalvish08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunalvish08/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalvish08/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kunalvish08/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Divide and Conquer
 |  |
 | ------- |
