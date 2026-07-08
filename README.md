@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/kunalvish08/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/kunalvish08/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/kunalvish08/Leetcode/tree/master/0394-decode-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0468-validate-ip-address](https://github.com/kunalvish08/Leetcode/tree/master/0468-validate-ip-address) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalvish08/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -206,11 +207,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kunalvish08/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kunalvish08/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kunalvish08/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0419-battleships-in-a-board](https://github.com/kunalvish08/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -250,8 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Graph Theory
 |  |
 | ------- |
 | [1615-maximal-network-rank](https://github.com/kunalvish08/Leetcode/tree/master/1615-maximal-network-rank) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
