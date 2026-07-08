@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/kunalvish08/Leetcode/tree/master/0468-validate-ip-address) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalvish08/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalvish08/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvish08/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalvish08/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kunalvish08/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/kunalvish08/Leetcode/tree/master/0509-fibonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalvish08/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalvish08/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalvish08/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Trie
 |  |
 | ------- |
