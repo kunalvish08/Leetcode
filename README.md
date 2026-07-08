@@ -241,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Graph Theory
+|  |
+| ------- |
+| [1615-maximal-network-rank](https://github.com/kunalvish08/Leetcode/tree/master/1615-maximal-network-rank) |
 <!---LeetCode Topics End-->
