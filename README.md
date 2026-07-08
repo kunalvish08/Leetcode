@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -206,11 +207,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0419-battleships-in-a-board](https://github.com/kunalvish08/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Heap (Priority Queue)
@@ -224,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kunalvish08/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kunalvish08/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kunalvish08/Leetcode/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
