@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalvish08/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kunalvish08/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kunalvish08/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kunalvish08/Leetcode/tree/master/0048-rotate-image) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalvish08/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/kunalvish08/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/kunalvish08/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/kunalvish08/Leetcode/tree/master/0509-fibonacci-number) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalvish08/Leetcode/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kunalvish08/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/kunalvish08/Leetcode/tree/master/0141-linked-list-cycle) |
