@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kunalvish08/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalvish08/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kunalvish08/Leetcode/tree/master/0283-move-zeroes) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kunalvish08/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunalvish08/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kunalvish08/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalvish08/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kunalvish08/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/kunalvish08/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/kunalvish08/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kunalvish08/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
