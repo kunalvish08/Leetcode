@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kunalvish08/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kunalvish08/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kunalvish08/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kunalvish08/Leetcode/tree/master/0125-valid-palindrome) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kunalvish08/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kunalvish08/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kunalvish08/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kunalvish08/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kunalvish08/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/kunalvish08/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kunalvish08/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/kunalvish08/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kunalvish08/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kunalvish08/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kunalvish08/Leetcode/tree/master/0048-rotate-image) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kunalvish08/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/kunalvish08/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kunalvish08/Leetcode/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalvish08/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kunalvish08/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
