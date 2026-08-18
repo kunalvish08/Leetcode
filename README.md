@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kunalvish08/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalvish08/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kunalvish08/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kunalvish08/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunalvish08/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/kunalvish08/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalvish08/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/kunalvish08/Leetcode/tree/master/0735-asteroid-collision) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/kunalvish08/Leetcode/tree/master/1094-car-pooling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kunalvish08/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kunalvish08/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kunalvish08/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunalvish08/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/kunalvish08/Leetcode/tree/master/1094-car-pooling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kunalvish08/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kunalvish08/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
