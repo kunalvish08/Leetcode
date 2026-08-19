@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/kunalvish08/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalvish08/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/kunalvish08/Leetcode/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/kunalvish08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/kunalvish08/Leetcode/tree/master/1094-car-pooling) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalvish08/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalvish08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/kunalvish08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kunalvish08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalvish08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunalvish08/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalvish08/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/kunalvish08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kunalvish08/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Divide and Conquer
