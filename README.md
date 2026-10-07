@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kunalvish08/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kunalvish08/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/kunalvish08/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/kunalvish08/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalvish08/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalvish08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kunalvish08/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kunalvish08/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kunalvish08/Leetcode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/kunalvish08/Leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0301-remove-invalid-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Graph Theory
 |  |
