@@ -1,4 +1,4 @@
- class Solution {
+class Solution {
 public:
     string removeOuterParentheses(string s) {
         string ans;
@@ -6,17 +6,16 @@ public:
 
         for (char c : s) {
             if (c == '(') {
-                if (depth > 0) {
+                if (depth > 0)
                     ans += c;
-                }
+
                 depth++;
             }
             else {
                 depth--;
 
-                if (depth > 0) {
+                if (depth > 0)
                     ans += c;
-                }
             }
         }
 
