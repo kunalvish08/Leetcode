@@ -1,21 +1,25 @@
-class Solution {
+ class Solution {
 public:
-   string removeOuterParentheses(string s) {
-    string res;
-    int opened = 0;
+    string removeOuterParentheses(string s) {
+        string ans;
+        int depth = 0;
 
-    for (auto c : s) {
-        if (c == '(') {
-            if (opened > 0)
-                res += c;
-            opened++;
-        } else {
-            if (opened > 1)
-                res += c;
-            opened--;
+        for (char c : s) {
+            if (c == '(') {
+                if (depth > 0) {
+                    ans += c;
+                }
+                depth++;
+            }
+            else {
+                depth--;
+
+                if (depth > 0) {
+                    ans += c;
+                }
+            }
         }
-    }
 
-    return res;
-}
+        return ans;
+    }
 };
