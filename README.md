@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kunalvish08/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1405-longest-happy-string](https://github.com/kunalvish08/Leetcode/tree/master/1405-longest-happy-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kunalvish08/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kunalvish08/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalvish08/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvish08/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalvish08/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1405-longest-happy-string](https://github.com/kunalvish08/Leetcode/tree/master/1405-longest-happy-string) |
 | [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kunalvish08/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kunalvish08/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kunalvish08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvish08/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kunalvish08/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kunalvish08/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalvish08/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kunalvish08/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalvish08/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kunalvish08/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
