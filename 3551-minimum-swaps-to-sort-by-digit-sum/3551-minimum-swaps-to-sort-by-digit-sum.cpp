@@ -1,12 +1,11 @@
-
 class Solution {
 public:
-    int digitSum(int x) {
+    int digitSum(int num) {
         int sum = 0;
 
-        while (x > 0) {
-            sum += x % 10;
-            x /= 10;
+        while (num > 0) {
+            sum += num % 10;
+            num /= 10;
         }
 
         return sum;
@@ -23,17 +22,17 @@ public:
 
         sort(arr.begin(), arr.end());
 
-        unordered_map<int, int> pos;
+        unordered_map<int, int> targetIndex;
 
         for (int i = 0; i < n; i++) {
-            pos[arr[i].second] = i;
+            targetIndex[arr[i].second] = i;
         }
 
         vector<bool> visited(n, false);
         int swaps = 0;
 
         for (int i = 0; i < n; i++) {
-            if (visited[i] || pos[nums[i]] == i) {
+            if (visited[i]) {
                 continue;
             }
 
@@ -42,11 +41,14 @@ public:
 
             while (!visited[j]) {
                 visited[j] = true;
-                j = pos[nums[j]];
                 cycleSize++;
+
+                j = targetIndex[nums[j]];
             }
 
-            swaps += cycleSize - 1;
+            if (cycleSize > 1) {
+                swaps += cycleSize - 1;
+            }
         }
 
         return swaps;
