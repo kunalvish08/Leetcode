@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunalvish08/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/kunalvish08/Leetcode/tree/master/1094-car-pooling) |
+| [1254-number-of-closed-islands](https://github.com/kunalvish08/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kunalvish08/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunalvish08/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kunalvish08/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/kunalvish08/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunalvish08/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/kunalvish08/Leetcode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/kunalvish08/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/kunalvish08/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1254-number-of-closed-islands](https://github.com/kunalvish08/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kunalvish08/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Simulation
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0572-subtree-of-another-tree](https://github.com/kunalvish08/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kunalvish08/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/kunalvish08/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunalvish08/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0301-remove-invalid-parentheses](https://github.com/kunalvish08/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kunalvish08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [1254-number-of-closed-islands](https://github.com/kunalvish08/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
