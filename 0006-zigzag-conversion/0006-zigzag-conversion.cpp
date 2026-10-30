@@ -1,33 +1,19 @@
-
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1 || numRows >= s.size()) {
-            return s;
-        }
-
-        vector<string> rows(numRows);
-        int row = 0;
-        int direction = 1;
-
-        for (char ch : s) {
-            rows[row] += ch;
-
-            if (row == 0) {
-                direction = 1;
-            } else if (row == numRows - 1) {
-                direction = -1;
+        if (numRows == 1) return s;
+        char a[10000];
+        std::size_t len = s.length();
+        int index =0;
+        for (int i = 0; i < numRows; i++) {
+            for (int j = i; j < len; j +=2*(numRows-1)) {
+                a[index++] = s[j];
+                if (i > 0 && i<numRows-1 && j+2*(numRows-1)-2*i<len) {
+                    a[index++] = s[j + 2*(numRows - 1)-2*i];
+                }
             }
-
-            row += direction;
         }
-
-        string ans = "";
-
-        for (string r : rows) {
-            ans += r;
-        }
-
-        return ans;
+        a[index]='\0';
+        return a;
     }
 };
