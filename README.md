@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/kunalvish08/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/kunalvish08/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kunalvish08/Leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalvish08/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunalvish08/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/kunalvish08/Leetcode/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunalvish08/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/kunalvish08/Leetcode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/kunalvish08/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunalvish08/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalvish08/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunalvish08/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/kunalvish08/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/kunalvish08/Leetcode/tree/master/0498-diagonal-traverse) |
