@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kunalvish08/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kunalvish08/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kunalvish08/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kunalvish08/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunalvish08/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/kunalvish08/Leetcode/tree/master/1094-car-pooling) |
 | [1254-number-of-closed-islands](https://github.com/kunalvish08/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kunalvish08/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kunalvish08/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunalvish08/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalvish08/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalvish08/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kunalvish08/Leetcode/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kunalvish08/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1488-avoid-flood-in-the-city](https://github.com/kunalvish08/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kunalvish08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kunalvish08/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kunalvish08/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/kunalvish08/Leetcode/tree/master/1094-car-pooling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kunalvish08/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kunalvish08/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kunalvish08/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kunalvish08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kunalvish08/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
