@@ -1,9 +1,18 @@
 class Solution {
 public:
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-        auto far = [&](int a) {  // no b in [a - d, a + d]
-            return ranges::all_of(arr2, [&](int b) { return abs(a - b) > d; });
-        };
-        return ranges::count_if(arr1, far);
+        int c = 0;
+        for (int n : arr1) {
+            if (isValid(n, arr2, d)) c++;
+        }
+        return c;
+    }
+
+private:
+    bool isValid(int n, vector<int>& arr, int d) {
+        for (int e : arr) {
+            if (abs(e - n) <= d) return false;
+        }
+        return true;
     }
 };
