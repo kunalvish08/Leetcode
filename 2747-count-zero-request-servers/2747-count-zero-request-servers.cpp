@@ -1,31 +1,33 @@
 class Solution {
 public:
-    vector<int> countServers(int n, vector<vector<int>>& logs, int x, vector<int>& queries) {
-        sort(logs.begin(), logs.end(), [](const vector<int>& a, const vector<int>& b) {
-            return a[1] < b[1];
-        });
-        int q = queries.size();
-        vector<int> idx(q);
-        for (int i = 0; i < q; i++) idx[i] = i;
-        sort(idx.begin(), idx.end(), [&](int a, int b) {
-            return queries[a] < queries[b];
-        });
+    vector<int> countServers(int n, vector<vector<int>>& logs, int x,
+                             vector<int>& queries) {
+        sort(logs.begin(), logs.end(),
+             [](const auto& a, const auto& b) { return a[1] < b[1]; });
 
-        vector<int> cnt(n + 1, 0), res(q);
-        int distinct = 0, l = 0, r = 0, m = logs.size();
+        vector<int> ids(queries.size());
+        iota(ids.begin(), ids.end(), 0);
+        sort(ids.begin(), ids.end(),
+             [&](int i, int j) { return queries[i] < queries[j]; });
 
-        for (int id : idx) {
-            int t = queries[id];
-            while (r < m && logs[r][1] <= t) {
-                if (cnt[logs[r][0]]++ == 0) distinct++;
-                r++;
+        vector<int> ans(queries.size()), cnt(n + 1);
+        int left = 0, right = 0, active = 0;
+        for (int i : ids) {
+            int q = queries[i];
+            while (right < logs.size() && logs[right][1] <= q) {
+                int id = logs[right++][0];
+                if (cnt[id]++ == 0) {
+                    ++active;
+                }
             }
-            while (l < r && logs[l][1] < t - x) {
-                if (--cnt[logs[l][0]] == 0) distinct--;
-                l++;
+            while (left < right && logs[left][1] < q - x) {
+                int id = logs[left++][0];
+                if (--cnt[id] == 0) {
+                    --active;
+                }
             }
-            res[id] = n - distinct;
+            ans[i] = n - active;
         }
-        return res;
+        return ans;
     }
 };
