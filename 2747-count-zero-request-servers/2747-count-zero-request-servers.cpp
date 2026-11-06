@@ -1,32 +1,21 @@
 class Solution {
 public:
-    vector<int> countServers(int n, vector<vector<int>>& logs, int x,
-                             vector<int>& queries) {
-        sort(logs.begin(), logs.end(),
-             [](const auto& a, const auto& b) { return a[1] < b[1]; });
+    vector<int> countServers(int n, vector<vector<int>>& logs, int x, vector<int>& queries) {
+        ranges::sort(logs, {}, [](auto& log) { return log[1]; });  // by time
+        logs.push_back({0, INT_MAX});  // sentinel: no window ever reaches it
+        vector<int> order(queries.size());
+        iota(order.begin(), order.end(), 0);
+        ranges::sort(order, {}, [&](int i) { return queries[i]; });  // query positions in time order
 
-        vector<int> ids(queries.size());
-        iota(ids.begin(), ids.end(), 0);
-        sort(ids.begin(), ids.end(),
-             [&](int i, int j) { return queries[i] < queries[j]; });
-
-        vector<int> ans(queries.size()), cnt(n + 1);
-        int left = 0, right = 0, active = 0;
-        for (int i : ids) {
+        vector<int> cnt(n + 1), ans(queries.size());  // cnt: requests per server inside the window [q - x, q]
+        int busy = 0, lo = 0, hi = 0;  // busy: servers with at least one request in it
+        for (int i : order) {
             int q = queries[i];
-            while (right < logs.size() && logs[right][1] <= q) {
-                int id = logs[right++][0];
-                if (cnt[id]++ == 0) {
-                    ++active;
-                }
-            }
-            while (left < right && logs[left][1] < q - x) {
-                int id = logs[left++][0];
-                if (--cnt[id] == 0) {
-                    --active;
-                }
-            }
-            ans[i] = n - active;
+            for (; logs[hi][1] <= q; ++hi)  // requests up to q come in
+                busy += cnt[logs[hi][0]]++ == 0;
+            for (; logs[lo][1] < q - x; ++lo)  // requests before q - x go out
+                busy -= --cnt[logs[lo][0]] == 0;
+            ans[i] = n - busy;
         }
         return ans;
     }
