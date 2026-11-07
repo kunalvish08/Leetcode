@@ -1,32 +1,45 @@
 class Solution {
-    struct Server {
-        long long at;  // the second it frees up; 0 while free, so free servers sort by weight, then index
-        int weight, index;
-        auto operator<=>(const Server&) const = default;
-    };
-    using MinHeap = priority_queue<Server, vector<Server>, greater<>>;
+private:
+    using PLI = pair<long long, int>;
+    using PII = pair<int, int>;
 
 public:
     vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
-        vector<Server> all;
-        for (int i = 0; i < ssize(servers); ++i) all.push_back({0, servers[i], i});
-        MinHeap free(greater<>{}, std::move(all));
+        int m = servers.size();
+        int n = tasks.size();
 
-        MinHeap busy;
-        vector<int> ans;
-        for (int s = 0; s < ssize(tasks); ++s) {
-            while (!busy.empty() && busy.top().at <= s) {  // done by second s
-                auto [at, weight, index] = busy.top();
-                busy.pop();
-                free.push({0, weight, index});
-            }
-            MinHeap& from = free.empty() ? busy : free;  // none free: the first to finish takes it
-            auto [at, weight, index] = from.top();
-            from.pop();
-            busy.push({max<long long>(at, s) + tasks[s], weight, index});
-            ans.push_back(index);
+        // Busy servers, stored as pairs (t, idx)
+        priority_queue<PLI, vector<PLI>, greater<PLI>> busy;
+        // Idle servers, stored as pairs (w, idx)
+        priority_queue<PII, vector<PII>, greater<PII>> idle;
+        for (int i = 0; i < m; ++i) {
+            idle.emplace(servers[i], i);
         }
 
+        long long ts = 0;
+        // Move servers with t<=ts from priority queue busy to priority queue
+        // idle one by one
+        auto release = [&]() {
+            while (!busy.empty() && busy.top().first <= ts) {
+                auto&& [_, idx] = busy.top();
+                idle.emplace(servers[idx], idx);
+                busy.pop();
+            }
+        };
+
+        vector<int> ans;
+        for (int i = 0; i < n; ++i) {
+            ts = max(ts, static_cast<long long>(i));
+            release();
+            if (idle.empty()) {
+                ts = busy.top().first;
+                release();
+            }
+            auto&& [_, idx] = idle.top();
+            ans.push_back(idx);
+            busy.emplace(ts + tasks[i], idx);
+            idle.pop();
+        }
         return ans;
     }
 };
