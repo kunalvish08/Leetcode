@@ -1,12 +1,39 @@
 class Solution {
 public:
     int longestMonotonicSubarray(vector<int>& nums) {
-        int best = 1, up = 1, down = 1;
-        for (size_t i = 1; i < nums.size(); ++i) {
-            up = nums[i - 1] < nums[i] ? up + 1 : 1;  // increasing streak ending at nums[i]
-            down = nums[i - 1] > nums[i] ? down + 1 : 1;  // decreasing streak ending at nums[i]
-            best = max({best, up, down});
+        int maxLength = 0;
+
+        // Find longest strictly increasing subarray
+        for (int start = 0; start < nums.size(); start++) {
+            int currLength = 1;
+            for (int pos = start + 1; pos < nums.size(); pos++) {
+                // Extend subarray if next element is larger
+                if (nums[pos] > nums[pos - 1]) {
+                    currLength++;
+                } else {
+                    // Break if sequence is not increasing anymore
+                    break;
+                }
+            }
+            maxLength = max(maxLength, currLength);
         }
-        return best;
+
+        // Find longest strictly decreasing subarray
+        for (int start = 0; start < nums.size(); start++) {
+            int currLength = 1;
+            for (int pos = start + 1; pos < nums.size(); pos++) {
+                // Extend subarray if next element is smaller
+                if (nums[pos] < nums[pos - 1]) {
+                    currLength++;
+                } else {
+                    // Break if sequence is not decreasing anymore
+                    break;
+                }
+            }
+            maxLength = max(maxLength, currLength);
+        }
+
+        return maxLength;  // Return the longer of increasing or decreasing
+                           // sequences
     }
 };
