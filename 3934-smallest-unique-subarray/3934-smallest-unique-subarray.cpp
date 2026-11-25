@@ -1,24 +1,51 @@
+using ll = long long;
+
 class Solution {
 public:
     int smallestUniqueSubarray(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> names{nums};  // names[k][i] is equal for equal windows of length 2^k starting at i
-        for (int half = 1; 2 * half <= n; half *= 2) {  // blocks of 2, 4, 8, ... while they fit
-            unordered_map<long long, int> ids;  // pair of halves -> number of the whole window
-            vector<int> whole;
-            for (auto [a, b] : views::zip(names.back(), names.back() | views::drop(half)))
-                whole.push_back(ids.try_emplace((long long)a << 32 | b, ids.size()).first->second);
-            names.push_back(std::move(whole));
+        constexpr ll MOD = 1000000007LL;
+        constexpr ll BASE = 911382323LL;
+
+        int n = (int)nums.size();
+        vector<ll> h(n + 1);
+        vector<ll> p(n + 1);
+        p[0] = 1;
+
+        // Compute prefix hashes and powers of BASE
+        for (int i = 0; i < n; ++i) {
+            h[i + 1] = (h[i] * BASE + nums[i]) % MOD;
+            p[i + 1] = p[i] * BASE % MOD;
         }
 
-        auto found = [&](int length) {  // is some window of this length unique?
-            int k = bit_width((unsigned)length) - 1;  // its first 2^k elements and its last 2^k cover it
-            unordered_map<long long, int> count;
-            for (auto [a, b] : views::zip(names[k], names[k] | views::drop(length - (1 << k))))
-                count[(long long)a << 32 | b]++;
-            return ranges::any_of(count, [](auto& entry) { return entry.second == 1; });
+        auto check = [&](int len) {
+            unordered_map<ll, int> cnt;
+
+            for (int l = 0; l + len <= n; ++l) {
+                int r = l + len;
+
+                ll key = (h[r] - h[l] * p[len] % MOD + MOD) % MOD;
+                ++cnt[key];
+            }
+
+            for (auto& [key, times] : cnt) {
+                if (times == 1) {
+                    return true;
+                }
+            }
+            return false;
         };
 
-        return *ranges::partition_point(views::iota(1, n), not_fn(found));
+        int lo = 1, hi = n;
+        while (lo < hi) {
+            int mid = lo + (hi - lo) / 2;
+
+            if (check(mid)) {
+                hi = mid;
+            } else {
+                lo = mid + 1;
+            }
+        }
+
+        return lo;
     }
 };
